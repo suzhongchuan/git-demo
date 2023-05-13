@@ -13,4 +13,4 @@ hello chuan!
 hello chuan!
 hello chuan!
 hello chuan! master text
-hello chuan!
+hello chuan! hot-fix test
